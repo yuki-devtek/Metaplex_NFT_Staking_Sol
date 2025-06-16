@@ -1,4 +1,4 @@
-# Solana-metaplex-core-nft-staking
+# Solana Metaplex Core Nft Staking
 This project features an on-chain staking program for NFTs on Solana, built using the Anchor framework and adhering to the Metaplex Core standard. The staking system enables users to securely lock their NFTs and unstake them through Solana Web3 interactions.
 
 ## Contact me
